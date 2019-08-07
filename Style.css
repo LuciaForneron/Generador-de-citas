@@ -1,0 +1,28 @@
+@font-face {
+  font-family: Russian;
+  src: url(Russian.ttf);}
+  @font-face {
+  font-family: Slimamif;
+  src: url(Slimamif.ttf);}
+body{
+background-color: #880000;}
+#Image {
+	float: left;
+  width: 30%;
+  padding:20;
+}
+#name {font-family: Russian;
+        font-size:54px;
+        width:910px;
+		margin-top:0;
+		margin-left:20%;}
+#text {font-family: arial;
+        font-size: 100px;}
+#ded{ font-family: Slimamif;
+       padding-left: 40%;}
+.button{font-family: Russian;
+         background-color: black;
+		 color:white;
+		 size:20px;}
+.x{display:inline;
+margin:0;}
